@@ -105,7 +105,7 @@ SELECT * FROM categories ;
 ALTER TABLE categories ADD created_at TIMESTAMP ;
 ALTER TABLE categories ADD updated_at TIMESTAMP ;
 ALTER TABLE categories ADD updated_by VARCHAR(100) ;
-ALTER TABLE categories ADD created_by VARCHAR(100) ;*/
+ALTER TABLE categories ADD created_by VARCHAR(100) ;
 
 ALTER TABLE freelances ADD created_at TIMESTAMP ;
 ALTER TABLE freelances ADD updated_at TIMESTAMP ;
