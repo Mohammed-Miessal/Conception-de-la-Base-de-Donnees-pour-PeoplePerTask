@@ -1,4 +1,4 @@
-# Peoplepertask-Db
+# Peoplepertask DB
 This repository contains the database schema and setup instructions for PeoplePerTask , a freelance website aimed at connecting clients with skilled freelancers for various tasks and projects.
 
 #Database Structure Table: users: ID user, Name,password,email,birthday
